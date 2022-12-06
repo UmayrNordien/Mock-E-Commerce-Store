@@ -24,6 +24,7 @@ body{
 	background: rgb(255, 255, 255);
 	color: rgb(0, 0, 0);
 }
+/* NAVBAR | MENU */
 header{
 	width: 100%;
 	top: 0;
@@ -82,6 +83,8 @@ header{
 section{
 	padding: 100px 14%;
 }
+
+/* HOME SECTION */
 .home{
 	min-height: 100vh;
 	width: 100%;
@@ -102,11 +105,13 @@ section{
 	color: rgb(255, 255, 255);
 
 }
+
+/* BUTTON (CURRENTLY AFFECTED BOOTSTRAP LINKS ) */
 .btn{
 	display: inline-block;
 	padding: 13px 25px;
 	background: var(--main-color);
-	color: rgb(255, 255, 255);
+	color:  rgb(255, 255, 255) !important;
 	font-size: 15px;
 	letter-spacing: 1px;
 	font-weight: 600;
@@ -384,7 +389,7 @@ header.sticky{
 	}
 }
 
-/* CARD (JS) */
+/* CARD (JS -  NOT DISPLAYING) */
 .card{
     width: 18rem;
     margin: auto;

@@ -86,13 +86,13 @@ JSON.parse(localStorage.getItem('products')) : [
         id: 6,
         productName: "SkiMask",
 		size: "M",
-		quanintity: "6",
+		quantity: "6",
 		image:"https://i.postimg.cc/DfDT3Nt3/Ski-Mask-1.jpg",
 		price:"R600"
     }
 ];
 
-let wrapper = document.querySelector('.item');
+let wrapper = document.querySelector('.products');
 
 function displayProducts() {
 	products.forEach((products) => {
