@@ -38,7 +38,7 @@ header{
 	transition: all .35s ease;
 }
 .logo{
-	font-size: 28px;
+	font-size: 30px;
 	font-weight: 700;
 	letter-spacing: 1px;
 	color: rgb(0, 0, 0);
@@ -90,26 +90,17 @@ section{
 	background-position: center top;
 	position: relative;
 	display: grid;
-	grid-template-columns: repeat(1, 1fr);
+	grid-template-columns: repeat(1, 1fr); /* not important */
 	align-items: center;
 	color:rgb(255, 255, 255);
 }
-.home-text h1{
-	font-size: var(--big-font);
-	font-weight: 800;
-	line-height: 1.2;
-	letter-spacing: .6rem;
-	margin-bottom: 1.4rem;
+.home-text p{					/* "exclusive archive rags */
+	font-size: 30px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	margin-bottom: 48px;
+	color: rgb(255, 255, 255);
 
-}
-.home-text span{
-	font-size: var(--h2-font);
-}
-.home-text p{
-	font-size: var(--normal-font);
-	font-weight: 500;
-	margin-bottom: 3rem;
-	letter-spacing: .2rem;
 }
 .btn{
 	display: inline-block;
@@ -395,3 +386,11 @@ header.sticky{
 a{
 	text-decoration: none;
 }
+
+
+
+/* Card */
+/* .card{
+    width: 18rem;
+    margin: auto;
+} */

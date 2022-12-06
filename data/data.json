@@ -1,0 +1,103 @@
+{
+    "t-shirts":[
+        {
+            "id": 1,
+            "item-name":"",
+            "size":"",
+            "image":"",
+            "price":"" 
+        },
+        {
+            "id": 2,
+            "item-name":"",
+            "size":"",
+            "image":"",
+            "price":"" 
+        }
+    ],
+
+    "tops":[
+        {
+            "id": 1,
+            "item-name":"",
+            "size":"",
+            "image":"",
+            "price":"" 
+        },
+        {
+            "id": 2,
+            "item-name":"",
+            "size":"",
+            "image":"",
+            "price":"" 
+        }
+    ],
+
+    "jackets":[
+        {
+            "id": 1,
+            "item-name":"",
+            "size":"",
+            "image":"",
+            "price":"" 
+        },
+        {
+            "id": 2,
+            "item-name":"",
+            "size":"",
+            "image":"",
+            "price":"" 
+        }
+    ],
+
+    "hoodies":[
+        {
+            "id": 1,
+            "item-name":"",
+            "size":"",
+            "image":"",
+            "price":"" 
+        },
+        {
+            "id": 2,
+            "item-name":"",
+            "size":"",
+            "image":"",
+            "price":"" 
+        }
+    ],
+
+    "pants":[
+        {
+            "id": 1,
+            "item-name":"",
+            "size":"",
+            "image":"",
+            "price":"" 
+        },
+        {
+            "id": 2,
+            "item-name":"",
+            "size":"",
+            "image":"",
+            "price":"" 
+        }
+    ],
+
+    "other":[
+        {
+            "id": 1,
+            "item-name":"",
+            "size":"",
+            "image":"",
+            "price":"" 
+        },
+        {
+            "id": 2,
+            "item-name":"",
+            "size":"",
+            "image":"",
+            "price":"" 
+        }
+    ]
+}
